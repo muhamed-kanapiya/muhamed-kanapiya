@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning in FreeCodeCamp | Alem School | Qwant
+- 🌱 I’m currently learning in Able (Data Science) #TechOrda
+- ⚡ Previously in FreeCodeCamp | Alem School | Qwant
 
 <!--
 **muhamed-kanapiya/muhamed-kanapiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
