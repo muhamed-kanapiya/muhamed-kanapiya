@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning in Able (Data Science) #TechOrda
-- ⚡ Previously in FreeCodeCamp | Alem School | Qwant
+- ⚡ Previously in FreeCodeCamp | Alem School | Qwant | Able Academy
 
 <!--
 **muhamed-kanapiya/muhamed-kanapiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,8 +18,5 @@ Here are some ideas to get you started:
 -->
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=muhamed-kanapiya&show_icons=true&hide_border=true" />
-
+  <summary>:zap: There will be some additional information</summary>
 </details>
