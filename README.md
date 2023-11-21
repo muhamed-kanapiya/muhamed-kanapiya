@@ -2,6 +2,8 @@
 - 🌱 I’m currently learning in Able (Data Science) #TechOrda
 - ⚡ Previously in FreeCodeCamp | Alem School | Qwant | Able Academy
 
+[![GitHub Views](https://komarev.com/ghpvc/?username=muhamed-kanapiya&color=FAC151)][1]
+
 <!--
 **muhamed-kanapiya/muhamed-kanapiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
