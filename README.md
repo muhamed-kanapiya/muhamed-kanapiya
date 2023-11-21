@@ -3,6 +3,11 @@
 - ⚡ Previously in FreeCodeCamp | Alem School | Qwant | Able Academy
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=muhamed-kanapiya&color=FAC151)][1]
+[![GitHub Views](https://komarev.com/ghpvc/?username=natterstefan&color=FAC151)][1]
+[![typescript](https://img.shields.io/badge/TypeScript-Fan-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/natterstefan)
+[![blogger](https://img.shields.io/badge/Blogger-Follow%20Me-FAC151.svg?logo=hashnode&logoWidth=20)][4]
+[![newsletter](https://img.shields.io/badge/Newsletter-subscribe-%23FAC151.svg?logo=gmail&logoWidth=20)][5]
+[![youtuber](https://img.shields.io/badge/YouTuber-Follow%20Me-FAC151.svg?logo=youtube&logoWidth=20)][11]
 
 <!--
 **muhamed-kanapiya/muhamed-kanapiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
