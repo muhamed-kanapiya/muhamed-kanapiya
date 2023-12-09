@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning in Able (Data Science) #TechOrda
 - ⚡ Previously in FreeCodeCamp | Alem School | Qwant | Able Academy
 
+
+
 ![GitHub Views](https://komarev.com/ghpvc/?username=muhamed-kanapiya&color=FAC151)
 ![typescript](https://img.shields.io/badge/TypeScript-Fan-FAC151.svg?logo=typescript&logoWidth=20)
 ![blogger](https://img.shields.io/badge/Blogger-Follow%20Me-FAC151.svg?logo=hashnode&logoWidth=20)
@@ -38,5 +40,6 @@ Frontend Developer
 *   🌍  I'm based in Astana
 *   🧠  I'm learning React JS
 *   🤝  I'm open to collaborating on Interesting projects, freelance
-  
+
+![](https://komarev.com/ghpvc/?username=muhamed-kanapiya&style=flat-square)
                   
