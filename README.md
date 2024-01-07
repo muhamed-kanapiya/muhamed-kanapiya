@@ -44,5 +44,5 @@ Frontend Developer
 ![](https://komarev.com/ghpvc/?username=muhamed-kanapiya&style=flat-square)
 <details>
   <summary>📚 Courses</summary>
-  List there
+1. 👓 [Learn UI Design Fundamentals](https://scrimba.com/learn/design)
 </details>
