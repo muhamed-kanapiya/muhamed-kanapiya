@@ -45,4 +45,8 @@ Frontend Developer
 <details>
   <summary>📚 Courses</summary>
 1. 👓 <a href="https://scrimba.com/learn/design">Learn UI Design Fundamentals</a>.
+
+<b>Crypto, Web 3</b>
+1. ⛓️ <a href="https://metaschool.so/courses/create-gamer-dao-solidity-q-blockchain">Build a Gamer DAO on the Q Blockchain</a>
+2. ⛓️ <a href="https://metaschool.so/courses/writing-your-first-hello-world-contract-in-solidity">Write Your First Solidity Smart Contract on Ethereum</a>
 </details>
