@@ -44,9 +44,11 @@ Frontend Developer
 ![](https://komarev.com/ghpvc/?username=muhamed-kanapiya&style=flat-square)
 <details>
   <summary>📚 Courses</summary>
+<b>Frontend Development</b>
 1. 👓 <a href="https://scrimba.com/learn/design">Learn UI Design Fundamentals</a>.
+2. 🖥️ <a href="https://hyperskill.org/tracks/65">Javascript Core</a>.
 
 <b>Crypto, Web 3</b>
-1. ⛓️ <a href="https://metaschool.so/courses/create-gamer-dao-solidity-q-blockchain">Build a Gamer DAO on the Q Blockchain</a>
-2. ⛓️ <a href="https://metaschool.so/courses/writing-your-first-hello-world-contract-in-solidity">Write Your First Solidity Smart Contract on Ethereum</a>
+1. ⛓️ <a href="https://metaschool.so/courses/create-gamer-dao-solidity-q-blockchain">Build a Gamer DAO on the Q Blockchain</a>.
+2. ⛓️ <a href="https://metaschool.so/courses/writing-your-first-hello-world-contract-in-solidity">Write Your First Solidity Smart Contract on Ethereum</a>.
 </details>
