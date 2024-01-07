@@ -42,4 +42,7 @@ Frontend Developer
 *   🤝  I'm open to collaborating on Interesting projects, freelance
 
 ![](https://komarev.com/ghpvc/?username=muhamed-kanapiya&style=flat-square)
-                  
+<details>
+  <summary>📚 Courses</summary>
+  List there
+</details>
