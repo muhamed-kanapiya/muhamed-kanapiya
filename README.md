@@ -41,6 +41,7 @@ Frontend Developer
 *   🧠  I'm learning React JS
 *   🤝  I'm open to collaborating on Interesting projects, freelance
 
+![](https://img.shields.io/github/stars/muhamed-kanapiya?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)&nbsp;&nbsp;&nbsp;&nbsp;![](https://img.shields.io/github/followers/muhamed-kanapiya?style=social)&nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://komarev.com/ghpvc/?username=muhamed-kanapiya&style=flat-square)
 <details>
   <summary>📚 Finished Courses</summary>
